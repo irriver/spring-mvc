@@ -11,5 +11,9 @@
 	<a href="/mvcexam/plusform">
 		<button>go to plus function</button>
 	</a>
+	<br>
+	<a href="/mvcexam/userform">
+		<button>go to resister user</button>
+	</a>
 </body>
 </html>
