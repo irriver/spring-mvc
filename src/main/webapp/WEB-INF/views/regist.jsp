@@ -7,8 +7,6 @@
 <title>둥록된 유저 정보 출력</title>
 </head>
 <body>
-	${name}<br>
-	${email}<br>
-	${age}<br>
+	<h2>Register Success!</h2>
 </body>
 </html>
